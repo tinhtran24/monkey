@@ -1,4 +1,4 @@
-package monkey // import "bou.ke/monkey"
+package monkey // import "github.com/tinhtran24/monkey"
 
 import (
 	"fmt"
